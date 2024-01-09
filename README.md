@@ -18,5 +18,5 @@ Student ID: 521370910147
 
 ## Brief documentation
 
-This is a shell written in C and can support bash commands, functioning kind of like an ordinary shell (see the wiki page for details). However, the shell is still at a rather preliminary stage and still needs refinement for rather higher level of commands.
+This is a shell written in C and can support bash commands, functioning kind of like an ordinary shell (see the wiki page for details). The shell is still at a rather preliminary stage and still needs refinement for rather higher level of commands.
 
